@@ -1,0 +1,59 @@
+body{
+     background-color:FFD39B;
+}
+hr{
+   border: 3px solid #000; 
+   border-radius: 5px;
+}
+h1{
+   text-align: center;
+}
+.h12{
+     text-align: left;
+}
+.biografija{ 
+            margin-top: 50px; 
+            text-align: center;
+
+}
+.dinastija1{
+
+}
+.dinastija2{
+
+}
+td:hover{
+         outline: 5px solid #000000;
+}
+.div1{
+      margin-left:100px ; 
+      margin-right:100px; 
+      margin-top: 5px; 
+      margin-bottom: 5px;
+}
+.div2{
+      margin-left:200px ; 
+      margin-right:200px; 
+      color:A62A2A ;
+}
+.div3{
+      margin-left:100px ; 
+      margin-right:100px;
+}
+.div4{
+      font-family:Comic Sans MS ;
+}
+.autor {
+	background-image: url('pozadina.jpg');
+	box-sizing: border-box;
+	width: 80%;
+	padding: 1em;
+	border: 2px black solid;
+        text-align: center;
+        margin: 0px auto 10px auto;
+}
+.a1{
+    text-decoration: none ; 
+    color: black; 
+    font-size: 20px;
+}

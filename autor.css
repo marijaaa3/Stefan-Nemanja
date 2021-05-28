@@ -1,0 +1,20 @@
+body{
+     background-color:FFD39B;
+}
+h1{
+   text-align: center;
+}
+p{
+  text-align: center; 
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+img{
+    width: 25%; 
+    height: 25%;
+}
+.p2{
+    text-align: left;
+}
